@@ -1,0 +1,12 @@
+E:\Proj\TaskАndProjectManagementSystem\Domain\bin\Debug\net7.0\TaskАndProjectManagementSystem.Domain.deps.json
+E:\Proj\TaskАndProjectManagementSystem\Domain\bin\Debug\net7.0\TaskАndProjectManagementSystem.Domain.dll
+E:\Proj\TaskАndProjectManagementSystem\Domain\bin\Debug\net7.0\TaskАndProjectManagementSystem.Domain.pdb
+E:\Proj\TaskАndProjectManagementSystem\Domain\obj\Debug\net7.0\TaskАndProjectManagementSystem.Domain.csproj.AssemblyReference.cache
+E:\Proj\TaskАndProjectManagementSystem\Domain\obj\Debug\net7.0\TaskАndProjectManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proj\TaskАndProjectManagementSystem\Domain\obj\Debug\net7.0\TaskАndProjectManagementSystem.Domain.AssemblyInfoInputs.cache
+E:\Proj\TaskАndProjectManagementSystem\Domain\obj\Debug\net7.0\TaskАndProjectManagementSystem.Domain.AssemblyInfo.cs
+E:\Proj\TaskАndProjectManagementSystem\Domain\obj\Debug\net7.0\TaskАndProjectManagementSystem.Domain.csproj.CoreCompileInputs.cache
+E:\Proj\TaskАndProjectManagementSystem\Domain\obj\Debug\net7.0\TaskАndProjectManagementSystem.Domain.dll
+E:\Proj\TaskАndProjectManagementSystem\Domain\obj\Debug\net7.0\refint\TaskАndProjectManagementSystem.Domain.dll
+E:\Proj\TaskАndProjectManagementSystem\Domain\obj\Debug\net7.0\TaskАndProjectManagementSystem.Domain.pdb
+E:\Proj\TaskАndProjectManagementSystem\Domain\obj\Debug\net7.0\ref\TaskАndProjectManagementSystem.Domain.dll

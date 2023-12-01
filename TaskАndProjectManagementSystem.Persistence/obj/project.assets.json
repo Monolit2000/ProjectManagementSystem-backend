@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "TaskАndProjectManagementSystem.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "TaskАndProjectManagementSystem.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TaskАndProjectManagementSystem.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskАndProjectManagementSystem.Application.dll": {}
+        }
+      },
+      "TaskАndProjectManagementSystem.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/TaskАndProjectManagementSystem.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaskАndProjectManagementSystem.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskАndProjectManagementSystem.Application/1.0.0": {
+      "type": "project",
+      "path": "../Application/TaskАndProjectManagementSystem.Application.csproj",
+      "msbuildProject": "../Application/TaskАndProjectManagementSystem.Application.csproj"
+    },
+    "TaskАndProjectManagementSystem.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/TaskАndProjectManagementSystem.Domain.csproj",
+      "msbuildProject": "../Domain/TaskАndProjectManagementSystem.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "TaskАndProjectManagementSystem.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DIO\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Proj\\TaskАndProjectManagementSystem\\TaskАndProjectManagementSystem.Persistence\\TaskАndProjectManagementSystem.Persistence.csproj",
+      "projectName": "TaskАndProjectManagementSystem.Persistence",
+      "projectPath": "E:\\Proj\\TaskАndProjectManagementSystem\\TaskАndProjectManagementSystem.Persistence\\TaskАndProjectManagementSystem.Persistence.csproj",
+      "packagesPath": "C:\\Users\\DIO\\.nuget\\packages\\",
+      "outputPath": "E:\\Proj\\TaskАndProjectManagementSystem\\TaskАndProjectManagementSystem.Persistence\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\DIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "E:\\Proj\\TaskАndProjectManagementSystem\\Application\\TaskАndProjectManagementSystem.Application.csproj": {
+              "projectPath": "E:\\Proj\\TaskАndProjectManagementSystem\\Application\\TaskАndProjectManagementSystem.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.320\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
